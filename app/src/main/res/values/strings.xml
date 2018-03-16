@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestModelKotlin</string>
+    <string name="sqlite_db_name">testMyDatabase</string>
+    <string name="pesel">PESEL</string>
+</resources>
